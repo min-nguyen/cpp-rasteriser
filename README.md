@@ -1,4 +1,4 @@
-Rasterizer Features:
+#### Rasterizer Features:
 - Camera and point light movement
 - Texture mapping
 - Loading of .obj models
