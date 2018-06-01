@@ -4,3 +4,5 @@ screenshot.bmp
 untitled.ppm
 instructions
 build/*
+.vscode
+source/glm
