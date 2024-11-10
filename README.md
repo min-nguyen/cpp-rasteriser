@@ -18,4 +18,5 @@ make
 ```
 
 Up, Down, Left, Right to navigate
+
 Shift + Up, Shift + Down to navigate along y axis
