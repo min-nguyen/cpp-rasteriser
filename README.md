@@ -1,4 +1,4 @@
-University of Bristol undergraduate project
+University of Bristol Undergraduate Project
 
 #### Rasterizer Features:
 - Camera and point light movement
