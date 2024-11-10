@@ -1,3 +1,5 @@
+University of Bristol undergraduate project
+
 #### Rasterizer Features:
 - Camera and point light movement
 - Texture mapping
@@ -9,12 +11,11 @@
   <img src="https://preview.ibb.co/gTN68J/rasterizer.png" width=550/>
 </p>
 
-
-To run, simply:
-
+To run:
+```
 make
 ./build/rasterizer
-
+```
 
 Up, Down, Left, Right to navigate
 Shift + Up, Shift + Down to navigate along y axis
