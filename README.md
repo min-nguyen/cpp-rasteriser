@@ -11,12 +11,21 @@ University of Bristol Undergraduate Project
   <img src="https://preview.ibb.co/gTN68J/rasterizer.png" width=550/>
 </p>
 
-To run:
+
+#### GLM & SDL2 (Ubuntu):
+
+```
+sudo apt-get install libglm-dev
+sudo apt-get install libsdl2-dev libsdl2-2.0-0 -y
+```
+
+#### Building & Running
+
 ```
 make
 ./build/rasterizer
 ```
 
-Up, Down, Left, Right to navigate
-
-Shift + Up, Shift + Down to navigate along y axis
+- Up, Down, Left, Right to navigate along X and Z axis.
+- Shift + Up, Shift + Down to navigate along Y axis.
+- Esc to quit.

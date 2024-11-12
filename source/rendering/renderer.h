@@ -110,8 +110,8 @@ public:
                     float r = glm::length(dis);
                     r = 4.0 * 3.1415926 * r * r;
 
-                    float result =  dis.x *  depthBuffer[i][j].shape->ComputeNormal().x + 
-                                    dis.y *  depthBuffer[i][j].shape->ComputeNormal().y + 
+                    float result =  dis.x *  depthBuffer[i][j].shape->ComputeNormal().x +
+                                    dis.y *  depthBuffer[i][j].shape->ComputeNormal().y +
                                     dis.z *  depthBuffer[i][j].shape->ComputeNormal().z;
 
                     vec3 light_area = result / r * LIGHTPOWER;

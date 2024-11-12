@@ -4,8 +4,9 @@
 #include <iostream>
 #include <stdint.h>
 
-#include <SDL.h>
+// #include <SDL.h>
 #include <glm/glm.hpp>
+#include <string.h>
 
 typedef struct{
   SDL_Window *window;

@@ -5,7 +5,7 @@
 #include <fstream>
 #include <stdlib.h>
 #include <stdio.h>
-#include <string.h>
+#include <cstring>
 #include "../shapes/triangle.h"
 #include "../materials/texture.h"
 #include <omp.h>
